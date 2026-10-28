@@ -1,0 +1,109 @@
+u,v,in_hand,in_geo
+Guinea - Beyla,Guinea - Kerouane,True,True
+Guinea - Beyla,Guinea - Lola,True,True
+Guinea - Beyla,Guinea - Macenta,True,True
+Guinea - Beyla,Guinea - Mzerekore,False,True
+Guinea - Boffa,Guinea - Dubreka,True,True
+Guinea - Boffa,Guinea - Telimele,True,True
+Guinea - Conakry,Guinea - Coyah,True,True
+Guinea - Conakry,Guinea - Dubreka,True,True
+Guinea - Conakry,Guinea - Forecariah,True,False
+Guinea - Coyah,Guinea - Dubreka,True,True
+Guinea - Coyah,Guinea - Forecariah,True,True
+Guinea - Coyah,Guinea - Kindia,False,True
+Guinea - Dabola,Guinea - Dinguiraye,True,True
+Guinea - Dabola,Guinea - Kissidougou,True,False
+Guinea - Dabola,Guinea - Kouroussa,True,True
+Guinea - Dalaba,Guinea - Kindia,True,True
+Guinea - Dalaba,Guinea - Pita,True,True
+Guinea - Dalaba,Guinea - Telimele,True,False
+Guinea - Dinguiraye,Guinea - Kouroussa,False,True
+Guinea - Dinguiraye,Guinea - Siguiri,False,True
+Guinea - Dubreka,Guinea - Kindia,False,True
+Guinea - Dubreka,Guinea - Telimele,True,True
+Guinea - Forecariah,Guinea - Kindia,True,True
+Guinea - Forecariah,Sierra Leone - Kambia,True,True
+Guinea - Gueckedou,Guinea - Kissidougou,True,True
+Guinea - Gueckedou,Guinea - Macenta,True,True
+Guinea - Gueckedou,Liberia - Lofa,True,True
+Guinea - Gueckedou,Sierra Leone - Kailahun,True,True
+Guinea - Gueckedou,Sierra Leone - Kono,False,True
+Guinea - Kerouane,Guinea - Kissidougou,True,True
+Guinea - Kerouane,Guinea - Kouroussa,True,False
+Guinea - Kerouane,Guinea - Macenta,False,True
+Guinea - Kindia,Guinea - Pita,False,True
+Guinea - Kindia,Guinea - Telimele,True,True
+Guinea - Kindia,Sierra Leone - Bombali,False,True
+Guinea - Kissidougou,Guinea - Kouroussa,False,True
+Guinea - Kissidougou,Guinea - Macenta,False,True
+Guinea - Kissidougou,Sierra Leone - Koinadugu,True,False
+Guinea - Kissidougou,Sierra Leone - Kono,True,False
+Guinea - Kouroussa,Guinea - Siguiri,True,True
+Guinea - Lola,Guinea - Mzerekore,True,True
+Guinea - Lola,Guinea - Yomou,True,False
+Guinea - Lola,Liberia - Nimba,False,True
+Guinea - Macenta,Guinea - Mzerekore,True,True
+Guinea - Macenta,Guinea - Yomou,True,True
+Guinea - Macenta,Liberia - Lofa,True,True
+Guinea - Mzerekore,Guinea - Yomou,True,True
+Guinea - Mzerekore,Liberia - Nimba,False,True
+Guinea - Pita,Guinea - Telimele,True,True
+Guinea - Yomou,Liberia - Bong,False,True
+Guinea - Yomou,Liberia - Lofa,False,True
+Guinea - Yomou,Liberia - Nimba,False,True
+Liberia - Bomi,Liberia - Bong,True,False
+Liberia - Bomi,Liberia - Gbarpolu,True,True
+Liberia - Bomi,Liberia - Grand Cape Mount,True,True
+Liberia - Bomi,Liberia - Montserrado,True,True
+Liberia - Bong,Liberia - Gbarpolu,True,True
+Liberia - Bong,Liberia - Grand Bassa,True,True
+Liberia - Bong,Liberia - Lofa,True,True
+Liberia - Bong,Liberia - Margibi,True,True
+Liberia - Bong,Liberia - Montserrado,True,True
+Liberia - Bong,Liberia - Nimba,True,True
+Liberia - Gbarpolu,Liberia - Grand Cape Mount,True,True
+Liberia - Gbarpolu,Liberia - Lofa,True,True
+Liberia - Gbarpolu,Sierra Leone - Kailahun,False,True
+Liberia - Gbarpolu,Sierra Leone - Kenema,False,True
+Liberia - Grand Bassa,Liberia - Margibi,True,True
+Liberia - Grand Bassa,Liberia - Nimba,True,True
+Liberia - Grand Bassa,Liberia - RiverCess,True,True
+Liberia - Grand Cape Mount,Liberia - Lofa,True,False
+Liberia - Grand Cape Mount,Sierra Leone - Kenema,False,True
+Liberia - Grand Cape Mount,Sierra Leone - Pujehun,True,True
+Liberia - Grand Gedeh,Liberia - Nimba,True,True
+Liberia - Grand Gedeh,Liberia - River Gee,True,True
+Liberia - Grand Gedeh,Liberia - Sinoe,True,True
+Liberia - Lofa,Sierra Leone - Kailahun,True,True
+Liberia - Lofa,Sierra Leone - Kenema,True,False
+Liberia - Margibi,Liberia - Montserrado,True,True
+Liberia - Maryland,Liberia - River Gee,True,True
+Liberia - Nimba,Liberia - RiverCess,True,True
+Liberia - River Gee,Liberia - Sinoe,True,True
+Liberia - RiverCess,Liberia - Sinoe,True,True
+Sierra Leone - Bo,Sierra Leone - Bonthe,True,True
+Sierra Leone - Bo,Sierra Leone - Kenema,True,True
+Sierra Leone - Bo,Sierra Leone - Moyamba,True,True
+Sierra Leone - Bo,Sierra Leone - Pujehun,True,True
+Sierra Leone - Bo,Sierra Leone - Tonkolili,True,True
+Sierra Leone - Bombali,Sierra Leone - Kambia,True,True
+Sierra Leone - Bombali,Sierra Leone - Koinadugu,True,True
+Sierra Leone - Bombali,Sierra Leone - Port Loko,True,True
+Sierra Leone - Bombali,Sierra Leone - Tonkolili,True,True
+Sierra Leone - Bonthe,Sierra Leone - Moyamba,True,True
+Sierra Leone - Bonthe,Sierra Leone - Pujehun,True,True
+Sierra Leone - Kailahun,Sierra Leone - Kenema,True,True
+Sierra Leone - Kailahun,Sierra Leone - Kono,True,True
+Sierra Leone - Kambia,Sierra Leone - Port Loko,True,True
+Sierra Leone - Kenema,Sierra Leone - Kono,True,True
+Sierra Leone - Kenema,Sierra Leone - Pujehun,True,True
+Sierra Leone - Kenema,Sierra Leone - Tonkolili,True,True
+Sierra Leone - Koinadugu,Sierra Leone - Kono,True,True
+Sierra Leone - Koinadugu,Sierra Leone - Tonkolili,True,True
+Sierra Leone - Kono,Sierra Leone - Tonkolili,True,True
+Sierra Leone - Moyamba,Sierra Leone - Port Loko,True,True
+Sierra Leone - Moyamba,Sierra Leone - Tonkolili,True,True
+Sierra Leone - Moyamba,Sierra Leone - Western area rural,True,True
+Sierra Leone - Port Loko,Sierra Leone - Tonkolili,True,True
+Sierra Leone - Port Loko,Sierra Leone - Western area rural,True,True
+Sierra Leone - Western area rural,Sierra Leone - Western area urban,True,True

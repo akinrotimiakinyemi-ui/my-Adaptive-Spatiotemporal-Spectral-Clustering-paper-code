@@ -1,0 +1,62 @@
+{
+  "geo/full": {
+    "mlc": [
+      "Liberia - Bomi",
+      "Liberia - Bong",
+      "Liberia - Margibi",
+      "Liberia - Montserrado"
+    ],
+    "llr": 615.9686675442294,
+    "start": "2014-10-26",
+    "end": "2014-10-26",
+    "p": 0.001
+  },
+  "geo/no_spike": {
+    "mlc": [
+      "Sierra Leone - Western area rural"
+    ],
+    "llr": 1680.2557298656184,
+    "start": "2014-10-12",
+    "end": "2014-10-12",
+    "p": NaN
+  },
+  "geo/raw": {
+    "mlc": [
+      "Liberia - Maryland"
+    ],
+    "llr": 1529.3384721215791,
+    "start": "2014-11-02",
+    "end": "2014-11-02",
+    "p": NaN
+  },
+  "hand/full": {
+    "mlc": [
+      "Liberia - Bomi",
+      "Liberia - Bong",
+      "Liberia - Margibi",
+      "Liberia - Montserrado"
+    ],
+    "llr": 615.9686675442294,
+    "start": "2014-10-26",
+    "end": "2014-10-26",
+    "p": 0.001
+  },
+  "hand/no_spike": {
+    "mlc": [
+      "Sierra Leone - Western area rural"
+    ],
+    "llr": 1680.2557298656184,
+    "start": "2014-10-12",
+    "end": "2014-10-12",
+    "p": NaN
+  },
+  "hand/raw": {
+    "mlc": [
+      "Liberia - Maryland"
+    ],
+    "llr": 1529.3384721215791,
+    "start": "2014-11-02",
+    "end": "2014-11-02",
+    "p": NaN
+  }
+}

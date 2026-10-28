@@ -1,0 +1,296 @@
+{
+  "Guinea - Beyla": [
+    "Guinea - Mzerekore",
+    "Guinea - Macenta",
+    "Guinea - Kerouane",
+    "Guinea - Lola"
+  ],
+  "Guinea - Boffa": [
+    "Guinea - Dubreka",
+    "Guinea - Telimele"
+  ],
+  "Guinea - Conakry": [
+    "Guinea - Coyah",
+    "Guinea - Dubreka"
+  ],
+  "Guinea - Coyah": [
+    "Guinea - Forecariah",
+    "Guinea - Kindia",
+    "Guinea - Conakry",
+    "Guinea - Dubreka"
+  ],
+  "Guinea - Dabola": [
+    "Guinea - Dinguiraye",
+    "Guinea - Kouroussa"
+  ],
+  "Guinea - Dalaba": [
+    "Guinea - Kindia",
+    "Guinea - Pita"
+  ],
+  "Guinea - Dinguiraye": [
+    "Guinea - Siguiri",
+    "Guinea - Dabola",
+    "Guinea - Kouroussa"
+  ],
+  "Guinea - Dubreka": [
+    "Guinea - Telimele",
+    "Guinea - Conakry",
+    "Guinea - Coyah",
+    "Guinea - Kindia",
+    "Guinea - Boffa"
+  ],
+  "Guinea - Forecariah": [
+    "Guinea - Coyah",
+    "Guinea - Kindia",
+    "Sierra Leone - Kambia"
+  ],
+  "Guinea - Gueckedou": [
+    "Guinea - Macenta",
+    "Liberia - Lofa",
+    "Guinea - Kissidougou",
+    "Sierra Leone - Kono",
+    "Sierra Leone - Kailahun"
+  ],
+  "Guinea - Kerouane": [
+    "Guinea - Kissidougou",
+    "Guinea - Beyla",
+    "Guinea - Macenta"
+  ],
+  "Guinea - Kindia": [
+    "Guinea - Dalaba",
+    "Guinea - Pita",
+    "Guinea - Coyah",
+    "Sierra Leone - Bombali",
+    "Guinea - Forecariah",
+    "Guinea - Telimele",
+    "Guinea - Dubreka"
+  ],
+  "Guinea - Kissidougou": [
+    "Guinea - Macenta",
+    "Guinea - Kerouane",
+    "Guinea - Kouroussa",
+    "Guinea - Gueckedou"
+  ],
+  "Guinea - Kouroussa": [
+    "Guinea - Siguiri",
+    "Guinea - Kissidougou",
+    "Guinea - Dinguiraye",
+    "Guinea - Dabola"
+  ],
+  "Guinea - Lola": [
+    "Guinea - Mzerekore",
+    "Guinea - Beyla",
+    "Liberia - Nimba"
+  ],
+  "Guinea - Macenta": [
+    "Guinea - Mzerekore",
+    "Guinea - Yomou",
+    "Guinea - Gueckedou",
+    "Liberia - Lofa",
+    "Guinea - Kissidougou",
+    "Guinea - Beyla",
+    "Guinea - Kerouane"
+  ],
+  "Guinea - Mzerekore": [
+    "Guinea - Macenta",
+    "Guinea - Lola",
+    "Guinea - Beyla",
+    "Guinea - Yomou",
+    "Liberia - Nimba"
+  ],
+  "Guinea - Pita": [
+    "Guinea - Kindia",
+    "Guinea - Dalaba",
+    "Guinea - Telimele"
+  ],
+  "Guinea - Siguiri": [
+    "Guinea - Dinguiraye",
+    "Guinea - Kouroussa"
+  ],
+  "Guinea - Telimele": [
+    "Guinea - Dubreka",
+    "Guinea - Kindia",
+    "Guinea - Pita",
+    "Guinea - Boffa"
+  ],
+  "Guinea - Yomou": [
+    "Guinea - Macenta",
+    "Liberia - Lofa",
+    "Guinea - Mzerekore",
+    "Liberia - Nimba",
+    "Liberia - Bong"
+  ],
+  "Liberia - Bomi": [
+    "Liberia - Gbarpolu",
+    "Liberia - Grand Cape Mount",
+    "Liberia - Montserrado"
+  ],
+  "Liberia - Bong": [
+    "Liberia - Lofa",
+    "Liberia - Grand Bassa",
+    "Liberia - Gbarpolu",
+    "Guinea - Yomou",
+    "Liberia - Nimba",
+    "Liberia - Margibi",
+    "Liberia - Montserrado"
+  ],
+  "Liberia - Gbarpolu": [
+    "Liberia - Bomi",
+    "Liberia - Grand Cape Mount",
+    "Sierra Leone - Kailahun",
+    "Liberia - Lofa",
+    "Liberia - Bong",
+    "Sierra Leone - Kenema"
+  ],
+  "Liberia - Grand Bassa": [
+    "Liberia - Bong",
+    "Liberia - RiverCess",
+    "Liberia - Nimba",
+    "Liberia - Margibi"
+  ],
+  "Liberia - Grand Cape Mount": [
+    "Sierra Leone - Pujehun",
+    "Liberia - Gbarpolu",
+    "Liberia - Bomi",
+    "Sierra Leone - Kenema"
+  ],
+  "Liberia - Grand Gedeh": [
+    "Liberia - River Gee",
+    "Liberia - Nimba",
+    "Liberia - Sinoe"
+  ],
+  "Liberia - Lofa": [
+    "Guinea - Yomou",
+    "Liberia - Bong",
+    "Guinea - Macenta",
+    "Guinea - Gueckedou",
+    "Liberia - Gbarpolu",
+    "Sierra Leone - Kailahun"
+  ],
+  "Liberia - Margibi": [
+    "Liberia - Grand Bassa",
+    "Liberia - Montserrado",
+    "Liberia - Bong"
+  ],
+  "Liberia - Maryland": [
+    "Liberia - River Gee"
+  ],
+  "Liberia - Montserrado": [
+    "Liberia - Margibi",
+    "Liberia - Bomi",
+    "Liberia - Bong"
+  ],
+  "Liberia - Nimba": [
+    "Liberia - Grand Gedeh",
+    "Liberia - RiverCess",
+    "Guinea - Mzerekore",
+    "Liberia - Grand Bassa",
+    "Guinea - Yomou",
+    "Liberia - Bong",
+    "Guinea - Lola"
+  ],
+  "Liberia - River Gee": [
+    "Liberia - Grand Gedeh",
+    "Liberia - Maryland",
+    "Liberia - Sinoe"
+  ],
+  "Liberia - RiverCess": [
+    "Liberia - Sinoe",
+    "Liberia - Nimba",
+    "Liberia - Grand Bassa"
+  ],
+  "Liberia - Sinoe": [
+    "Liberia - RiverCess",
+    "Liberia - River Gee",
+    "Liberia - Grand Gedeh"
+  ],
+  "Sierra Leone - Bo": [
+    "Sierra Leone - Moyamba",
+    "Sierra Leone - Tonkolili",
+    "Sierra Leone - Bonthe",
+    "Sierra Leone - Kenema",
+    "Sierra Leone - Pujehun"
+  ],
+  "Sierra Leone - Bombali": [
+    "Sierra Leone - Koinadugu",
+    "Sierra Leone - Port Loko",
+    "Sierra Leone - Tonkolili",
+    "Guinea - Kindia",
+    "Sierra Leone - Kambia"
+  ],
+  "Sierra Leone - Bonthe": [
+    "Sierra Leone - Moyamba",
+    "Sierra Leone - Bo",
+    "Sierra Leone - Pujehun"
+  ],
+  "Sierra Leone - Kailahun": [
+    "Liberia - Gbarpolu",
+    "Sierra Leone - Kenema",
+    "Liberia - Lofa",
+    "Sierra Leone - Kono",
+    "Guinea - Gueckedou"
+  ],
+  "Sierra Leone - Kambia": [
+    "Guinea - Forecariah",
+    "Sierra Leone - Bombali",
+    "Sierra Leone - Port Loko"
+  ],
+  "Sierra Leone - Kenema": [
+    "Sierra Leone - Pujehun",
+    "Sierra Leone - Kono",
+    "Sierra Leone - Tonkolili",
+    "Sierra Leone - Kailahun",
+    "Sierra Leone - Bo",
+    "Liberia - Gbarpolu",
+    "Liberia - Grand Cape Mount"
+  ],
+  "Sierra Leone - Koinadugu": [
+    "Sierra Leone - Bombali",
+    "Sierra Leone - Kono",
+    "Sierra Leone - Tonkolili"
+  ],
+  "Sierra Leone - Kono": [
+    "Sierra Leone - Koinadugu",
+    "Sierra Leone - Kenema",
+    "Sierra Leone - Tonkolili",
+    "Sierra Leone - Kailahun",
+    "Guinea - Gueckedou"
+  ],
+  "Sierra Leone - Moyamba": [
+    "Sierra Leone - Port Loko",
+    "Sierra Leone - Western area rural",
+    "Sierra Leone - Bo",
+    "Sierra Leone - Bonthe",
+    "Sierra Leone - Tonkolili"
+  ],
+  "Sierra Leone - Port Loko": [
+    "Sierra Leone - Moyamba",
+    "Sierra Leone - Bombali",
+    "Sierra Leone - Tonkolili",
+    "Sierra Leone - Kambia",
+    "Sierra Leone - Western area rural"
+  ],
+  "Sierra Leone - Pujehun": [
+    "Sierra Leone - Kenema",
+    "Liberia - Grand Cape Mount",
+    "Sierra Leone - Bo",
+    "Sierra Leone - Bonthe"
+  ],
+  "Sierra Leone - Tonkolili": [
+    "Sierra Leone - Bo",
+    "Sierra Leone - Port Loko",
+    "Sierra Leone - Moyamba",
+    "Sierra Leone - Bombali",
+    "Sierra Leone - Koinadugu",
+    "Sierra Leone - Kenema",
+    "Sierra Leone - Kono"
+  ],
+  "Sierra Leone - Western area rural": [
+    "Sierra Leone - Moyamba",
+    "Sierra Leone - Western area urban",
+    "Sierra Leone - Port Loko"
+  ],
+  "Sierra Leone - Western area urban": [
+    "Sierra Leone - Western area rural"
+  ]
+}

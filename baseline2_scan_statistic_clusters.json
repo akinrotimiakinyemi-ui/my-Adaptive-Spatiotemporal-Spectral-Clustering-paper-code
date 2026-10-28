@@ -1,0 +1,13 @@
+{
+  "mlc_units": [
+    "Liberia - Bomi",
+    "Liberia - Bong",
+    "Liberia - Margibi",
+    "Liberia - Montserrado"
+  ],
+  "mlc_log_glr": 615.9686675442292,
+  "mlc_week_start": "2014-10-26",
+  "mlc_week_end": "2014-11-02",
+  "p_value": 0.001,
+  "n_permutations": 999
+}

@@ -1,0 +1,4 @@
+method,cluster_id,n_hits,purity,hotspot_recall,cluster_size,f1
+Baseline 1: Static Spectral Clustering,1,4,1.0,0.36363636363636365,4,0.5333333333333333
+Baseline 2: Space-Time Scan Statistic,MLC,1,0.25,0.09090909090909091,4,0.13333333333333333
+Proposed: Adaptive AST-GL,1,7,0.3333333333333333,0.6363636363636364,21,0.43749999999999994

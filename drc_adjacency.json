@@ -1,0 +1,149 @@
+{
+  "Ituri - Ariwara": [],
+  "Ituri - Bunia": [
+    "Ituri - Komanda",
+    "Ituri - Nyankunde",
+    "Ituri - Rwampara",
+    "Ituri - Tchomia"
+  ],
+  "Ituri - Komanda": [
+    "Ituri - Bunia",
+    "Ituri - Mambasa",
+    "Ituri - Mandima",
+    "North Kivu - Beni",
+    "North Kivu - Oicha"
+  ],
+  "Ituri - Lolwa": [
+    "Ituri - Mambasa",
+    "Ituri - Mandima"
+  ],
+  "Ituri - Mambasa": [
+    "Ituri - Komanda",
+    "Ituri - Lolwa",
+    "Ituri - Mandima"
+  ],
+  "Ituri - Mandima": [
+    "Ituri - Komanda",
+    "Ituri - Lolwa",
+    "Ituri - Mambasa",
+    "North Kivu - Beni",
+    "North Kivu - Mabalako"
+  ],
+  "Ituri - Nyankunde": [
+    "Ituri - Bunia",
+    "Ituri - Tchomia"
+  ],
+  "Ituri - Rwampara": [
+    "Ituri - Bunia"
+  ],
+  "Ituri - Tchomia": [
+    "Ituri - Bunia",
+    "Ituri - Nyankunde"
+  ],
+  "North Kivu - Alimbongo": [
+    "North Kivu - Kayna",
+    "North Kivu - Lubero"
+  ],
+  "North Kivu - Beni": [
+    "Ituri - Komanda",
+    "Ituri - Mandima",
+    "North Kivu - Biena",
+    "North Kivu - Butembo",
+    "North Kivu - Kalunguta",
+    "North Kivu - Mabalako",
+    "North Kivu - Mutwanga",
+    "North Kivu - Oicha"
+  ],
+  "North Kivu - Biena": [
+    "North Kivu - Beni"
+  ],
+  "North Kivu - Butembo": [
+    "North Kivu - Beni",
+    "North Kivu - Katwa",
+    "North Kivu - Kyondo",
+    "North Kivu - Mabalako",
+    "North Kivu - Masereka",
+    "North Kivu - Musienene",
+    "North Kivu - Vuhovi",
+    "South Kivu - Mwenga"
+  ],
+  "North Kivu - Goma": [
+    "North Kivu - Lubero",
+    "North Kivu - Nyiragongo"
+  ],
+  "North Kivu - Kalunguta": [
+    "North Kivu - Beni",
+    "North Kivu - Mabalako",
+    "North Kivu - Mutwanga",
+    "North Kivu - Oicha"
+  ],
+  "North Kivu - Katwa": [
+    "North Kivu - Butembo",
+    "North Kivu - Musienene",
+    "North Kivu - Vuhovi"
+  ],
+  "North Kivu - Kayna": [
+    "North Kivu - Alimbongo",
+    "North Kivu - Lubero",
+    "North Kivu - Masereka"
+  ],
+  "North Kivu - Kyondo": [
+    "North Kivu - Butembo",
+    "North Kivu - Vuhovi"
+  ],
+  "North Kivu - Lubero": [
+    "North Kivu - Alimbongo",
+    "North Kivu - Goma",
+    "North Kivu - Kayna",
+    "North Kivu - Manguredjipa",
+    "North Kivu - Masereka",
+    "North Kivu - Pinga"
+  ],
+  "North Kivu - Mabalako": [
+    "Ituri - Mandima",
+    "North Kivu - Beni",
+    "North Kivu - Butembo",
+    "North Kivu - Kalunguta",
+    "North Kivu - Oicha"
+  ],
+  "North Kivu - Manguredjipa": [
+    "North Kivu - Lubero"
+  ],
+  "North Kivu - Masereka": [
+    "North Kivu - Butembo",
+    "North Kivu - Kayna",
+    "North Kivu - Lubero"
+  ],
+  "North Kivu - Musienene": [
+    "North Kivu - Butembo",
+    "North Kivu - Katwa",
+    "North Kivu - Vuhovi"
+  ],
+  "North Kivu - Mutwanga": [
+    "North Kivu - Beni",
+    "North Kivu - Kalunguta",
+    "North Kivu - Oicha"
+  ],
+  "North Kivu - Nyiragongo": [
+    "North Kivu - Goma"
+  ],
+  "North Kivu - Oicha": [
+    "Ituri - Komanda",
+    "North Kivu - Beni",
+    "North Kivu - Kalunguta",
+    "North Kivu - Mabalako",
+    "North Kivu - Mutwanga"
+  ],
+  "North Kivu - Pinga": [
+    "North Kivu - Lubero"
+  ],
+  "North Kivu - Vuhovi": [
+    "North Kivu - Butembo",
+    "North Kivu - Katwa",
+    "North Kivu - Kyondo",
+    "North Kivu - Musienene"
+  ],
+  "South Kivu - Mwenga": [
+    "North Kivu - Butembo"
+  ]
+}

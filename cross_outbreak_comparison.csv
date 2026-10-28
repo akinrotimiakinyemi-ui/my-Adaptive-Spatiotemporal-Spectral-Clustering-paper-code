@@ -1,0 +1,3 @@
+outbreak,admin_units,epi_weeks,astgl_purity,astgl_recall,astgl_f1,stability_mean,stability_std,params_retuned
+West Africa 2014-16,49,27,0.3333333333333333,0.6363636363636364,0.4374999999999999,3.3469387755102042,0.5224549585117069,N/A (design set)
+DRC North Kivu 2018-20,29,77,0.3076923076923077,0.5714285714285714,0.4,4.0,0.0,None
